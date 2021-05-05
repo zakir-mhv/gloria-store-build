@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/gloria-store-build/static/css/main.d92a680d.chunk.css",
+    "main.js": "/gloria-store-build/static/js/main.c2945a33.chunk.js",
+    "main.js.map": "/gloria-store-build/static/js/main.c2945a33.chunk.js.map",
+    "runtime-main.js": "/gloria-store-build/static/js/runtime-main.ead5a38b.js",
+    "runtime-main.js.map": "/gloria-store-build/static/js/runtime-main.ead5a38b.js.map",
+    "static/js/2.4e5b6b85.chunk.js": "/gloria-store-build/static/js/2.4e5b6b85.chunk.js",
+    "static/js/2.4e5b6b85.chunk.js.map": "/gloria-store-build/static/js/2.4e5b6b85.chunk.js.map",
+    "index.html": "/gloria-store-build/index.html",
+    "static/css/main.d92a680d.chunk.css.map": "/gloria-store-build/static/css/main.d92a680d.chunk.css.map",
+    "static/js/2.4e5b6b85.chunk.js.LICENSE.txt": "/gloria-store-build/static/js/2.4e5b6b85.chunk.js.LICENSE.txt",
+    "static/media/logo.edd591eb.png": "/gloria-store-build/static/media/logo.edd591eb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ead5a38b.js",
+    "static/js/2.4e5b6b85.chunk.js",
+    "static/css/main.d92a680d.chunk.css",
+    "static/js/main.c2945a33.chunk.js"
+  ]
+}
